@@ -1,1 +1,11 @@
-
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: purple;
+    margin-left: 20px;
+    margin-top: 10%;
+    border: 20px;
+  }
+ 
