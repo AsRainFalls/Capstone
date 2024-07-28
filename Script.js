@@ -1,3 +1,4 @@
+// random number gen
 function randNum(min, max) {
     min = Math.ceil(min);
     max = Math.floor(max);
@@ -10,3 +11,4 @@ function randNum(min, max) {
     document.getElementById("output").innerHTML = rand;
   }
   document.getElementById("myBut").addEventListener("click", generate);
+
